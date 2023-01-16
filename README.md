@@ -1,4 +1,4 @@
-# Nombre final del curso
+# Domina React
 
 Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
@@ -7,6 +7,8 @@ Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El c
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
 DESCRIPCIÓN DEL CURSO
+
+Expande tus habilidades con React con este curso que te instruye en conceptos más avanzados y te permite avanzar en tu dominio de esta popular librería para JavaScript enfocada en la construcción de interfaces de usuario funcionales, atractivas y esacalables. Durante el contenido repasarás de lo esencial a avanzado por las funcionalidades más importantes de React y cómo sacarle provecho en tus propios proyectos de programación. ¡No te lo pierdas!
 
 ## Instrucciones
 
@@ -26,9 +28,9 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 
 ### Docente
 
-**Nombre del docente**
+**Carlos Solís**
 
-Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/).
+Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/carlos-solis).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
