@@ -1,0 +1,7 @@
+.carrito{
+    background-color: red;
+    width:300px;
+    position: absolute;
+    top: 20px;
+    left: 70%;
+}

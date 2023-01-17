@@ -1,0 +1,49 @@
+[{
+    "nombre_pais": "Italia",
+    "atracciones": "Coliseo, Torre Inclinada de Pisa, Fontana de Trevi, Ciudad del Vaticano",
+    "idioma": "Italiano",
+    "comidas": "Pizza, Pasta, Tiramisú"
+},
+{
+    "nombre_pais": "Francia",
+    "atracciones": "Torre Eiffel, Museo del Louvre, Catedral de Notre-Dame, Palacio de Versalles",
+    "idioma": "Francés",
+    "comidas": "Croissant, Escargot, Coq au Vin"
+},
+{
+    "nombre_pais": "Japón",
+    "atracciones": "Monte Fuji, Torre de Tokio, Templo de Kioto, Parque Conmemorativo de la Paz de Hiroshima",
+    "idioma": "Japonés",
+    "comidas": "Sushi, Ramen, Okonomiyaki"
+},
+{
+    "nombre_pais": "India",
+    "atracciones": "Taj Mahal, Templo Dorado, Fuerte Rojo, Puerta de la India",
+    "idioma": "Hindi, Inglés",
+    "comidas": "Samosas, Pollo Tandoori, Biryani"
+},
+{
+    "nombre_pais": "Egipto",
+    "atracciones": "Gran Esfinge, Pirámides de Guiza, Abu Simbel, Valle de los Reyes",
+    "idioma": "Árabe",
+    "comidas": "Ful Medames, Koshari, Kofta"
+},
+{
+    "nombre_pais": "China",
+    "atracciones": "Gran Muralla China, Ciudad Prohibida, Ejército de Terracota, Bund",
+    "idioma": "Mandarín",
+    "comidas": "Pollo Kung Pao, Dumplings, Pato Pekín"
+},
+{
+    "pais": "Australia",
+    "atracciones": "Ópera de Sídney, Gran Barrera de Coral, Uluru",
+    "idioma": "Inglés",
+    "comidas": "Barbecued shrimp, Meat pies, Vegemite"
+},
+{
+    "pais": "Brasil",
+    "atracciones": "Cristo Redentor, Selva Amazónica, Cataratas de Iguazú, Carnaval",
+    "idioma": "Portugués",
+    "comidas": "Feijoada, Pao de Queijo, Brigadeiros"
+}
+]

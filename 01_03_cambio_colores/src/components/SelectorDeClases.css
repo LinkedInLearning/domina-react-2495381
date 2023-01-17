@@ -1,0 +1,16 @@
+.claseA {
+    color: #008000;
+    font-family: 'Courier New', Courier, monospace;
+}
+.claseB {
+    color: #ff0000;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+
+}
+.claseC {
+    color: #1616cb;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.471) ;
+}
+

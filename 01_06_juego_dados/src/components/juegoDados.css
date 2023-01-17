@@ -1,0 +1,21 @@
+.juego {
+    text-align: center;
+    margin: 50px;
+  }
+  
+  .numero {
+    font-size: 80px;
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .roll-button {
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+  }
+  
+  

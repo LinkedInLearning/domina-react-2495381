@@ -21,10 +21,14 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 ## Instalación
 
 1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
-   - [software]
+   - NodeJS
 
 2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
-3. [Instrucciones específicas del curso].
+3. Para ejecutar un ejercicio en particular:
+   - Selecciona la carpeta correspondiente al ejercicio
+   - Abre la carpeta en la terminal de sistema, si estás en visual studio code, puedes hacer click derecho sobre la carpeta de proyecto y seleccionar "Open in Integrated Terminal"
+   - Antes de ejecutar proyecto por primera vez, usar el comando `npm install` para descargar todas las dependencias.
+   - Para compilar y ejecutar el proyecto, usar el comando `npm run start` 
 
 ### Docente
 

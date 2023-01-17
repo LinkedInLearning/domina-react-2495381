@@ -1,0 +1,74 @@
+[
+    {
+        "nombre_pais": "Italia",
+        "atracciones": "Coliseo, Torre Inclinada de Pisa, Fontana de Trevi, Ciudad del Vaticano",
+        "idioma": "Italiano",
+        "comidas": "Pizza, Pasta, Tiramisú",
+        "ranking_comidas": "3",
+        "ranking_hoteles": "2",
+        "ranking_precios": "7"
+    },
+    {
+        "nombre_pais": "Francia",
+        "atracciones": "Torre Eiffel, Museo del Louvre, Catedral de Notre-Dame, Palacio de Versalles",
+        "idioma": "Francés",
+        "comidas": "Croissant, Escargot, Coq au Vin",
+        "ranking_comidas": "2",
+        "ranking_hoteles": "1",
+        "ranking_precios": "8"
+    },
+    {
+        "nombre_pais": "Japón",
+        "atracciones": "Monte Fuji, Torre de Tokio, Templo de Kioto, Parque Conmemorativo de la Paz de Hiroshima",
+        "idioma": "Japonés",
+        "comidas": "Sushi, Ramen, Okonomiyaki",
+        "ranking_comidas": "1",
+        "ranking_hoteles": "3",
+        "ranking_precios": "6"
+    },
+    {
+        "nombre_pais": "India",
+        "atracciones": "Taj Mahal, Templo Dorado, Fuerte Rojo, Puerta de la India",
+        "idioma": "Hindi, Inglés",
+        "comidas": "Samosas, Pollo Tandoori, Biryani",
+        "ranking_comidas": "6",
+        "ranking_hoteles": "4",
+        "ranking_precios": "1"
+    },
+    {
+        "nombre_pais": "Egipto",
+        "atracciones": "Gran Esfinge, Pirámides de Guiza, Abu Simbel, Valle de los Reyes",
+        "idioma": "Árabe",
+        "comidas": "Ful Medames, Koshari, Kofta",
+        "ranking_comidas": "7",
+        "ranking_hoteles": "8",
+        "ranking_precios": "5"
+    },
+    {
+        "nombre_pais": "China",
+        "atracciones": "Gran Muralla China, Ciudad Prohibida, Ejército de Terracota, Bund",
+        "idioma": "Mandarín",
+        "comidas": "Pollo Kung Pao, Dumplings, Pato Pekín",
+        "ranking_comidas": "8",
+        "ranking_hoteles": "7",
+        "ranking_precios": "2"
+    },
+    {
+        "nombre_pais": "Australia",
+        "atracciones": "Ópera de Sídney, Gran Barrera de Coral, Uluru",
+        "idioma": "Inglés",
+        "comidas": "Barbecued shrimp, Meat pies, Vegemite",
+        "ranking_comidas": "5",
+        "ranking_hoteles": "6",
+        "ranking_precios": "4"
+    },
+    {
+        "nombre_pais": "Brasil",
+        "atracciones": "Cristo Redentor, Selva Amazónica, Cataratas de Iguazú, Carnaval",
+        "idioma": "Portugués",
+        "comidas": "Feijoada, Pao de Queijo, Brigadeiros",
+        "ranking_comidas": "2",
+        "ranking_hoteles": "5",
+        "ranking_precios": "3"
+    }
+]

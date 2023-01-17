@@ -1,0 +1,35 @@
+{
+    "productos": [
+      {
+        "nombre": "Smartphone",
+        "precio": 600,
+        "id": 1
+      },
+      {
+        "nombre": "Laptop",
+        "precio": 1200,
+        "id": 2
+      },
+      {
+        "nombre": "Tablet",
+        "precio": 400,
+        "id": 3
+      },
+      {
+        "nombre": "Smartwatch",
+        "precio": 300,
+        "id": 4
+      },
+      {
+        "nombre": "Audífonos",
+        "precio": 150,
+        "id": 5
+      },
+      {
+        "nombre": "Cámara",
+        "precio": 1000,
+        "id": 6
+    }
+    ]
+  }
+  
