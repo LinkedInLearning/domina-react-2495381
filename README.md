@@ -6,8 +6,6 @@ Este es el repositorio del curso de LinkedIn Learning `[Domina React]`. El curso
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-DESCRIPCIÓN DEL CURSO
-
 Expande tus habilidades con React con este curso que te instruye en conceptos más avanzados y te permite avanzar en tu dominio de esta popular librería para JavaScript enfocada en la construcción de interfaces de usuario funcionales, atractivas y esacalables. Durante el contenido repasarás de lo esencial a avanzado por las funcionalidades más importantes de React y cómo sacarle provecho en tus propios proyectos de programación. ¡No te lo pierdas!
 
 ## Instrucciones
@@ -37,7 +35,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/carlos-solis).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
+[lil-course-url]: https://www.linkedin.com/learning/domina-react/introducete-en-react-por-la-puerta-grande
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
 
 [1]: # (End of ES-Instruction ###############################################################################################)
