@@ -36,6 +36,6 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/domina-react/introducete-en-react-por-la-puerta-grande
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/C4E0DAQFwSxMuxZ0xpQ/learning-public-crop_675_1200/0/1679293813456?e=2147483647&v=beta&t=xCcj1ns_0lkOMhxoDHypsg0T80ZiWYJX6FpBKV99Fxs
 
 [1]: # (End of ES-Instruction ###############################################################################################)
