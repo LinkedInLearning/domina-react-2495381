@@ -1,6 +1,6 @@
 # Domina React
 
-Este es el repositorio del curso de LinkedIn Learning `[Domina React]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Domina React`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Domina React][lil-thumbnail-url]
 
